@@ -8,7 +8,7 @@ Project requires Python v2.* to be installed
 
 How to Run Project
 ------------------
-Run the file entertainment_center.py in Python. Make sure that all other files in repository are in the same path as entertainment_center.py
+Run the file entertainment_center.py in Python or execute the command "python entertainment_center.py". Make sure that all other files in repository are in the same path as entertainment_center.py
 
 
 Extra Credit Description
